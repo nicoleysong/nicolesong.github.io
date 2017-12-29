@@ -1,0 +1,74 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1514514884243">
+  <folder name="css">
+    <file name="site_global.css" crc="4218271010"/>
+    <file name="index.css" crc="153152195" ref="index"/>
+    <file name="digital-media.css" crc="4193191577" ref="digital-media"/>
+    <file name="contact.css" crc="4193191577" ref="contact"/>
+    <file name="interior-design.css" crc="4193191577" ref="interior-design"/>
+    <file name="about.css" crc="4193191577" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:digital-media:interior-design:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:digital-media:interior-design:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:digital-media:interior-design:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:digital-media:interior-design:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:digital-media:interior-design:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:about:digital-media:interior-design:contact"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="62300408" ref="index"/>
+    <file name="form_process.php" crc="91775217" ref="index"/>
+    <file name="form-u2176.php" crc="494342571" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo white.png" crc="425214009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shadws2-crop-u716.jpg" crc="297275497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-linkedin-100 (1).png" crc="4105642000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-github-100.png" crc="3782713515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-instagram-filled-100.png" crc="456151603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wechat image_20171117115153.jpg" crc="360753855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4.jpg" crc="488003622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p8.jpg" crc="4195749299" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7.jpg" crc="4108666739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5.jpg" crc="209977301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p10.jpg" crc="4294590147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p6.jpg" crc="4152134255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3.jpg" crc="346250764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p9.jpg" crc="3766882952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1.jpg" crc="4156679194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="38610043" seo="true" mt="1514514835294" redirect="true"/>
+  <file name="about.html" crc="4188703123" seo="true" mt="1514505910460" redirect="false"/>
+  <file name="digital-media.html" crc="4189140670" seo="true" mt="1514505917622" redirect="false"/>
+  <file name="interior-design.html" crc="292087363" seo="true" mt="1514505924777" redirect="false"/>
+  <file name="contact.html" crc="3826679835" seo="true" mt="1514505929738" redirect="false"/>
+</manifest>
