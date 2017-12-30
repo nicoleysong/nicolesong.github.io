@@ -1,74 +1,161 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1514514884243">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1514594368339">
   <folder name="css">
-    <file name="site_global.css" crc="4218271010"/>
-    <file name="index.css" crc="153152195" ref="index"/>
-    <file name="digital-media.css" crc="4193191577" ref="digital-media"/>
-    <file name="contact.css" crc="4193191577" ref="contact"/>
-    <file name="interior-design.css" crc="4193191577" ref="interior-design"/>
-    <file name="about.css" crc="4193191577" ref="about"/>
+    <file name="site_global.css" crc="4015661088"/>
+    <file name="master_a-master.css" crc="463013960" ref="digital-design:index:interior-design"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="digital-design:index:interior-design"/>
+    <file name="digital-design.css" crc="499873405" ref="digital-design"/>
+    <file name="index.css" crc="3931019671" ref="index"/>
+    <file name="nomq_index.css" crc="169191974" ref="index"/>
+    <file name="interior-design.css" crc="3872497769" ref="interior-design"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:digital-media:interior-design:contact"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about:digital-media:interior-design:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:digital-media:interior-design:contact"/>
-    <file name="museconfig.js" crc="380897831" ref="index:about:digital-media:interior-design:contact"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about:digital-media:interior-design:contact"/>
-    <file name="require.js" crc="4157109226" ref="index:about:digital-media:interior-design:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:interior-design:digital-design"/>
+    <file name="museutils.js" crc="3803043152" ref="index:interior-design:digital-design"/>
+    <file name="whatinput.js" crc="86476730" ref="index:interior-design:digital-design"/>
+    <file name="museconfig.js" crc="380897831" ref="index:interior-design:digital-design"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:interior-design:digital-design"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="form_check.php" crc="62300408" ref="index"/>
-    <file name="form_process.php" crc="91775217" ref="index"/>
-    <file name="form-u2176.php" crc="494342571" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u158.php" crc="3870652275" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:interior-design:digital-design"/>
   </folder>
   <folder name="images">
-    <file name="logo white.png" crc="425214009" seo="true" ref="index">
+    <file name="shadws2.jpg" crc="4068098151" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="shadws2-crop-u716.jpg" crc="297275497" seo="true" ref="index">
+    <file name="logo white.png" crc="353792013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-expand-arrow-100.png" crc="4028136091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8405-crop-u134.jpg" crc="4164114965" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icons8-linkedin-100 (1).png" crc="4105642000" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="icons8-github-100.png" crc="3782713515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="icons8-instagram-filled-100.png" crc="456151603" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="wechat image_20171117115153.jpg" crc="360753855" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p4.jpg" crc="488003622" seo="true" ref="index">
+    <file name="trademark on auction button-u2078.png" crc="473753796" ref="index"/>
+    <file name="trademark on auction button-u2078-r.png" crc="4826245" ref="index"/>
+    <file name="magic box button-u2097.png" crc="4031104391" ref="index"/>
+    <file name="magic box button-u2097-r.png" crc="322881708" ref="index"/>
+    <file name="postie buttom-u2115.png" crc="3929415850" ref="index"/>
+    <file name="postie buttom-u2115-r.png" crc="3885450833" ref="index"/>
+    <file name="bee box button-u2134.png" crc="338803660" ref="index"/>
+    <file name="bee box button-u2134-r.png" crc="112520985" ref="index"/>
+    <file name="jazz style button-u2152.png" crc="481855133" ref="index"/>
+    <file name="jazz style button-u2152-r.png" crc="4024574467" ref="index"/>
+    <file name="interlock button-u2170.png" crc="3977369156" ref="index"/>
+    <file name="interlock button-u2170-r.png" crc="3936265374" ref="index"/>
+    <file name="light and air button-u2188.png" crc="238456091" ref="index"/>
+    <file name="light and air button-u2188-r.png" crc="4006670599" ref="index"/>
+    <file name="weaven button-u2206.png" crc="4217772643" ref="index"/>
+    <file name="weaven button-u2206-r.png" crc="3851484066" ref="index"/>
+    <file name="couch botton-u2225.png" crc="4115942104" ref="index"/>
+    <file name="couch botton-u2225-r.png" crc="57626533" ref="index"/>
+    <file name="pivot button-u2243.png" crc="3782048519" ref="index"/>
+    <file name="pivot button-u2243-r.png" crc="3882789860" ref="index"/>
+    <file name="scale and speed button-u2261.png" crc="4227871919" ref="index"/>
+    <file name="scale and speed button-u2261-r.png" crc="126145059" ref="index"/>
+    <file name="brigde button-u2280.png" crc="3985427759" ref="index"/>
+    <file name="brigde button-u2280-r.png" crc="4194421524" ref="index"/>
+    <file name="p3.jpg" crc="407599204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p8.jpg" crc="4195749299" seo="true" ref="index">
+    <file name="p4.jpg" crc="457587540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p7.jpg" crc="4108666739" seo="true" ref="index">
+    <file name="p5.jpg" crc="4059998257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p5.jpg" crc="209977301" seo="true" ref="index">
+    <file name="p8.jpg" crc="159396897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p10.jpg" crc="4294590147" seo="true" ref="index">
+    <file name="p7.jpg" crc="4192710648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p6.jpg" crc="4152134255" seo="true" ref="index">
+    <file name="p10.jpg" crc="300906297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p3.jpg" crc="346250764" seo="true" ref="index">
+    <file name="p6.jpg" crc="472548702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p9.jpg" crc="3766882952" seo="true" ref="index">
+    <file name="p9.jpg" crc="3872371379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1.jpg" crc="4156679194" seo="true" ref="index">
+    <file name="p1.jpg" crc="4118458967" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo white97x97.png" crc="3849971421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_8405-crop-u1342.jpg" crc="4187815886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo white231x231.png" crc="4174190990" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interlock button-u21702.png" crc="280681" ref="index"/>
+    <file name="interlock button-u2170-r2.png" crc="246529705" ref="index"/>
+    <file name="brigde button-u22802.png" crc="3855552800" ref="index"/>
+    <file name="brigde button-u2280-r2.png" crc="96021795" ref="index"/>
+    <file name="trademark on auction button-u20782.png" crc="4184585762" ref="index"/>
+    <file name="trademark on auction button-u2078-r2.png" crc="23773697" ref="index"/>
+    <file name="jazz style button-u21522.png" crc="19716290" ref="index"/>
+    <file name="jazz style button-u2152-r2.png" crc="4275645379" ref="index"/>
+    <file name="couch botton-u22252.png" crc="407743431" ref="index"/>
+    <file name="couch botton-u2225-r2.png" crc="365282395" ref="index"/>
+    <file name="pivot button-u22432.png" crc="365108009" ref="index"/>
+    <file name="pivot button-u2243-r2.png" crc="394091312" ref="index"/>
+    <file name="magic box button-u20972.png" crc="278174281" ref="index"/>
+    <file name="magic box button-u2097-r2.png" crc="4042786267" ref="index"/>
+    <file name="postie buttom-u21152.png" crc="341882326" ref="index"/>
+    <file name="postie buttom-u2115-r2.png" crc="3959099618" ref="index"/>
+    <file name="bee box button-u21342.png" crc="4165725121" ref="index"/>
+    <file name="bee box button-u2134-r2.png" crc="421059847" ref="index"/>
+    <file name="light and air button-u21882.png" crc="4055108413" ref="index"/>
+    <file name="light and air button-u2188-r2.png" crc="426500196" ref="index"/>
+    <file name="weaven button-u22062.png" crc="3086260" ref="index"/>
+    <file name="weaven button-u2206-r2.png" crc="3783546733" ref="index"/>
+    <file name="scale and speed button-u22612.png" crc="4159558917" ref="index"/>
+    <file name="scale and speed button-u2261-r2.png" crc="4011283674" ref="index"/>
+    <file name="logo white62x62.png" crc="177495522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="new site model2.jpg" crc="227464829" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="38610043" seo="true" mt="1514514835294" redirect="true"/>
-  <file name="about.html" crc="4188703123" seo="true" mt="1514505910460" redirect="false"/>
-  <file name="digital-media.html" crc="4189140670" seo="true" mt="1514505917622" redirect="false"/>
-  <file name="interior-design.html" crc="292087363" seo="true" mt="1514505924777" redirect="false"/>
-  <file name="contact.html" crc="3826679835" seo="true" mt="1514505929738" redirect="false"/>
+  <file name="index.html" crc="3895980905" seo="true" mt="1514594278739" redirect="true"/>
+  <file name="interior-design.html" crc="451709250" seo="true" mt="1514594182628" redirect="true"/>
+  <file name="digital-design.html" crc="4185688393" seo="true" mt="1514594158866" redirect="true"/>
 </manifest>
