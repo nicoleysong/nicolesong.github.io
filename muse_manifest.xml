@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1516138241682">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1516138338098">
   <folder name="css">
     <file name="site_global.css" crc="53496493"/>
     <file name="master_a-master.css" crc="463013960" ref="index:interior-design:digital-media"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:interior-design:digital-media"/>
-    <file name="index.css" crc="397370649" ref="index"/>
-    <file name="nomq_index.css" crc="53503077" ref="index"/>
+    <file name="index.css" crc="10488271" ref="index"/>
+    <file name="nomq_index.css" crc="133322805" ref="index"/>
     <file name="interior-design.css" crc="3804879875" ref="interior-design"/>
     <file name="nomq_interior-design.css" crc="4174395275" ref="interior-design"/>
     <file name="digital-media.css" crc="3846686842" ref="digital-media"/>
@@ -535,7 +535,7 @@
       <caption webpage="interior-design" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4002948794" seo="true" mt="1516138158187" redirect="true"/>
+  <file name="index.html" crc="3953476014" seo="true" mt="1516138322343" redirect="true"/>
   <file name="interior-design.html" crc="4257501291" seo="true" mt="1516137939723" redirect="true"/>
   <file name="digital-media.html" crc="4234271333" seo="true" mt="1516138217457" redirect="true"/>
 </manifest>
