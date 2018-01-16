@@ -1,16 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1514855618714">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1516136544240">
   <folder name="css">
     <file name="site_global.css" crc="53496493"/>
-    <file name="master_a-master.css" crc="463013960" ref="digital-media:index:interior-design"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="digital-media:index:interior-design"/>
-    <file name="digital-media.css" crc="3948839119" ref="digital-media"/>
-    <file name="index.css" crc="359350463" ref="index"/>
-    <file name="nomq_index.css" crc="3937405777" ref="index"/>
-    <file name="interior-design.css" crc="53025956" ref="interior-design"/>
-    <file name="nomq_interior-design.css" crc="3921990496" ref="interior-design"/>
+    <file name="master_a-master.css" crc="463013960" ref="index:interior-design:digital-media"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:interior-design:digital-media"/>
+    <file name="index.css" crc="4206078325" ref="index"/>
+    <file name="nomq_index.css" crc="86286011" ref="index"/>
+    <file name="interior-design.css" crc="21833021" ref="interior-design"/>
+    <file name="nomq_interior-design.css" crc="4045850726" ref="interior-design"/>
+    <file name="digital-media.css" crc="257219606" ref="digital-media"/>
   </folder>
   <folder name="assets">
-    <file name="snippet_31057a342.idms" crc="4225306588" seo="true" mt="1514607171000"/>
     <file name="postie.mp4" crc="352022073" seo="true" mt="1509810485000"/>
   </folder>
   <folder name="scripts">
@@ -60,34 +59,34 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="trademark on auction button-u2078.png" crc="504678480" ref="index"/>
-    <file name="trademark on auction button-u2078-r.png" crc="241074173" ref="index"/>
-    <file name="magic box button-u2097.png" crc="3772359952" ref="index"/>
-    <file name="magic box button-u2097-r.png" crc="322881708" ref="index"/>
     <file name="postie buttom-u2115.png" crc="307367829" ref="index"/>
     <file name="postie buttom-u2115-r.png" crc="325372879" ref="index"/>
-    <file name="bee box button-u2134.png" crc="338803660" ref="index"/>
-    <file name="bee box button-u2134-r.png" crc="3955533009" ref="index"/>
-    <file name="jazz style button-u2152.png" crc="481855133" ref="index"/>
-    <file name="jazz style button-u2152-r.png" crc="4024574467" ref="index"/>
-    <file name="interlock button-u2170.png" crc="3998746598" ref="index"/>
-    <file name="interlock button-u2170-r.png" crc="4091350684" ref="index"/>
     <file name="weaven button-u2206.png" crc="471572852" ref="index"/>
     <file name="weaven button-u2206-r.png" crc="3789477708" ref="index"/>
-    <file name="pivot button-u2243.png" crc="3931789670" ref="index"/>
-    <file name="pivot button-u2243-r.png" crc="3818470087" ref="index"/>
-    <file name="scale and speed button-u2261.png" crc="223884917" ref="index"/>
-    <file name="scale and speed button-u2261-r.png" crc="126145059" ref="index"/>
-    <file name="brigde button-u2280.png" crc="4043280942" ref="index"/>
-    <file name="brigde button-u2280-r.png" crc="4039631143" ref="index"/>
-    <file name="couch cover-crop-u6189.jpg" crc="3903311997" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="sm cover.jpg" crc="169043625" seo="true" ref="index:interior-design">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="scale and speed button-u2261.png" crc="223884917" ref="index"/>
+    <file name="scale and speed button-u2261-r.png" crc="126145059" ref="index"/>
+    <file name="magic box button-u2097.png" crc="3772359952" ref="index"/>
+    <file name="magic box button-u2097-r.png" crc="322881708" ref="index"/>
+    <file name="bee box button-u2134.png" crc="338803660" ref="index"/>
+    <file name="bee box button-u2134-r.png" crc="3955533009" ref="index"/>
+    <file name="interlock button-u2170.png" crc="3998746598" ref="index"/>
+    <file name="interlock button-u2170-r.png" crc="4091350684" ref="index"/>
+    <file name="brigde button-u2280.png" crc="4043280942" ref="index"/>
+    <file name="brigde button-u2280-r.png" crc="4039631143" ref="index"/>
+    <file name="trademark on auction button-u2078.png" crc="504678480" ref="index"/>
+    <file name="trademark on auction button-u2078-r.png" crc="241074173" ref="index"/>
+    <file name="pivot button-u2243.png" crc="3931789670" ref="index"/>
+    <file name="pivot button-u2243-r.png" crc="3818470087" ref="index"/>
+    <file name="jazz style button-u2152.png" crc="481855133" ref="index"/>
+    <file name="jazz style button-u2152-r.png" crc="4024574467" ref="index"/>
+    <file name="couch cover-crop-u6189.jpg" crc="4285298037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="p3.jpg" crc="407599204" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -137,38 +136,40 @@
     <file name="logo white231x231.png" crc="4174190990" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="postie buttom-u21152.png" crc="512473054" ref="index"/>
+    <file name="postie buttom-u2115-r2.png" crc="34137621" ref="index"/>
+    <file name="weaven button-u22062.png" crc="295979232" ref="index"/>
+    <file name="weaven button-u2206-r2.png" crc="83060634" ref="index"/>
+    <file name="scale and speed button-u22612.png" crc="4193582785" ref="index"/>
+    <file name="scale and speed button-u2261-r2.png" crc="4011283674" ref="index"/>
+    <file name="magic box button-u20972.png" crc="278174281" ref="index"/>
+    <file name="magic box button-u2097-r2.png" crc="4042786267" ref="index"/>
+    <file name="bee box button-u21342.png" crc="4165725121" ref="index"/>
+    <file name="bee box button-u2134-r2.png" crc="323713636" ref="index"/>
     <file name="interlock button-u21702.png" crc="475892477" ref="index"/>
     <file name="interlock button-u2170-r2.png" crc="3900900026" ref="index"/>
     <file name="brigde button-u22802.png" crc="107511905" ref="index"/>
     <file name="brigde button-u2280-r2.png" crc="283171791" ref="index"/>
     <file name="trademark on auction button-u20782.png" crc="442755355" ref="index"/>
     <file name="trademark on auction button-u2078-r2.png" crc="23773697" ref="index"/>
-    <file name="jazz style button-u21522.png" crc="19716290" ref="index"/>
-    <file name="jazz style button-u2152-r2.png" crc="4275645379" ref="index"/>
     <file name="pivot button-u22432.png" crc="3929776546" ref="index"/>
     <file name="pivot button-u2243-r2.png" crc="66770465" ref="index"/>
-    <file name="couch cover-crop-u61892.jpg" crc="82377485" seo="true" ref="index">
+    <file name="jazz style button-u21522.png" crc="19716290" ref="index"/>
+    <file name="jazz style button-u2152-r2.png" crc="4275645379" ref="index"/>
+    <file name="couch cover-crop-u61892.jpg" crc="516644120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="magic box button-u20972.png" crc="278174281" ref="index"/>
-    <file name="magic box button-u2097-r2.png" crc="4042786267" ref="index"/>
-    <file name="postie buttom-u21152.png" crc="512473054" ref="index"/>
-    <file name="postie buttom-u2115-r2.png" crc="34137621" ref="index"/>
-    <file name="bee box button-u21342.png" crc="4165725121" ref="index"/>
-    <file name="bee box button-u2134-r2.png" crc="323713636" ref="index"/>
-    <file name="weaven button-u22062.png" crc="295979232" ref="index"/>
-    <file name="weaven button-u2206-r2.png" crc="83060634" ref="index"/>
-    <file name="scale and speed button-u22612.png" crc="4193582785" ref="index"/>
-    <file name="scale and speed button-u2261-r2.png" crc="4011283674" ref="index"/>
     <file name="logo white62x62.png" crc="177495522" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:interior-design"/>
     <file name="weaven button-u4337.png" crc="9883407" ref="interior-design"/>
     <file name="weaven button-u4337-r.png" crc="4118586153" ref="interior-design"/>
+    <file name="weaven button-u4337-a.png" crc="4118586153" ref="interior-design"/>
     <file name="pivot button-u4442.png" crc="238435541" ref="interior-design"/>
     <file name="pivot button-u4442-r.png" crc="261459849" ref="interior-design"/>
-    <file name="couch cover-crop-u6147.jpg" crc="4089536521" seo="true" ref="interior-design">
+    <file name="pivot button-u4442-a.png" crc="261459849" ref="interior-design"/>
+    <file name="couch cover.jpg" crc="408195855" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
     <file name="interlock button-u4402.png" crc="3793083383" ref="interior-design"/>
@@ -176,6 +177,7 @@
     <file name="interlock button-u4402-a.png" crc="153265100" ref="interior-design"/>
     <file name="jazz style button-u4440.png" crc="4022622357" ref="interior-design"/>
     <file name="jazz style button-u4440-r.png" crc="4006692864" ref="interior-design"/>
+    <file name="jazz style button-u4440-a.png" crc="4006692864" ref="interior-design"/>
     <file name="brigde button-u4443.png" crc="4235457739" ref="interior-design"/>
     <file name="brigde button-u4443-r.png" crc="294927788" ref="interior-design"/>
     <file name="brigde button-u4443-a.png" crc="294927788" ref="interior-design"/>
@@ -191,13 +193,14 @@
       <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="porfolio sotheby filter photos.jpg" crc="4121836256" seo="true" ref="interior-design">
+    <file name="porfolio sotheby filter photos.jpg" crc="155105058" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="porfolio sotheby collages.jpg" crc="60599588" seo="true" ref="interior-design">
+    <file name="porfolio sotheby collages.jpg" crc="3985494133" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="porfolio sotheby elevation diagram.jpg" crc="4134790460" seo="true" ref="interior-design">
+    <file name="porfolio sotheby elevation diagram.jpg" crc="111938517" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
@@ -233,123 +236,130 @@
       <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="new site model2-crop-u5597.jpg" crc="4118159783" seo="true" ref="interior-design">
+    <file name="new site model2.jpg" crc="3925764453" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="original-crop-u5704.jpg" crc="4233424931" seo="true" ref="interior-design">
+    <file name="original.jpg" crc="4030620468" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="substance-crop-u5694.jpg" crc="463014326" seo="true" ref="interior-design">
+    <file name="substance.jpg" crc="391636324" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="extension-crop-u5714.jpg" crc="26170246" seo="true" ref="interior-design">
+    <file name="extension.jpg" crc="500422144" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="bridge-crop-u5724.jpg" crc="4079777786" seo="true" ref="interior-design">
+    <file name="bridge.jpg" crc="245315137" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="2000px-klein_bottlesvg.png" crc="393979887" seo="true" ref="interior-design">
+    <file name="2000px-klein_bottlesvg.png" crc="281421958" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="klbw1.jpg" crc="3948578297" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="klbw2.jpg" crc="96088328" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="klbw3.jpg" crc="54936685" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="nyc maping-crop-u5875.jpg" crc="4170738494" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="nyc maping-crop-u5914.jpg" crc="238806047" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="blue stairs1.jpg" crc="430409101" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="stair red1.jpg" crc="4208518239" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="stair yellow1.jpg" crc="64301408" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="rendering503.jpg" crc="3863727945" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="rendering1.jpg" crc="387333337" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="rendering202-crop-u5998.jpg" crc="3833200715" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="rendering403-crop-u6005.jpg" crc="4034888207" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="new site model3.jpg" crc="340722911" seo="true" ref="interior-design">
+    <file name="klbw1.jpg" crc="182089874" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="new site model4.jpg" crc="4211320405" seo="true" ref="interior-design">
+    <file name="klbw2.jpg" crc="264108149" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="new site model5.jpg" crc="3830932899" seo="true" ref="interior-design">
+    <file name="klbw3.jpg" crc="3904250770" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="new site model2_1.jpg" crc="3897809685" seo="true" ref="interior-design">
+    <file name="nyc maping-crop-u5875.jpg" crc="262448379" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="nyc maping-crop-u5914.jpg" crc="4277348945" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="blue stairs1.jpg" crc="429655223" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="weaven button-u4337-a.png" crc="4118586153" ref="interior-design"/>
-    <file name="pivot button-u4442-a.png" crc="261459849" ref="interior-design"/>
-    <file name="jazz style button-u4440-a.png" crc="4006692864" ref="interior-design"/>
-    <file name="--crop-u7713.jpg" crc="334943801" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="jazz 9 iteration.jpg" crc="161950294" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="jazz volum.jpg" crc="4156293819" seo="true" ref="interior-design">
+    <file name="stair red1.jpg" crc="4152860451" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="jazz style cover-crop-u7498.jpg" crc="8184164" seo="true" ref="interior-design">
+    <file name="stair yellow1.jpg" crc="4047784345" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="jazz floor plan.png" crc="4176468837" seo="true" ref="interior-design">
+    <file name="rendering503.jpg" crc="429275770" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="jazz sections.png" crc="3820885235" seo="true" ref="interior-design">
+    <file name="rendering1.jpg" crc="450935635" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="pivot drawing1.jpg" crc="3782952581" seo="true" ref="interior-design">
+    <file name="rendering202.jpg" crc="496223916" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="pivot drawing2.jpg" crc="4123389740" seo="true" ref="interior-design">
+    <file name="rendering403.jpg" crc="4014179616" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="new site model3.jpg" crc="17749315" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="new site model4.jpg" crc="4130272814" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="new site model5.jpg" crc="4007960708" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="new site model2_1.jpg" crc="417208752" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="-.jpg" crc="4184092009" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="jazz 9 iteration.jpg" crc="4104825654" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="jazz volum.jpg" crc="9787415" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="jazz style cover-crop-u7498.jpg" crc="257418537" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="jazz floor plan.png" crc="4090816432" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="jazz sections.png" crc="4067128453" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="pivot drawing1.jpg" crc="3777391941" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
+    </file>
+    <file name="pivot drawing2.jpg" crc="435999362" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
     <file name="weaving photo2-crop-u7912.jpg" crc="273352570" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="waeving diagram-crop-u7884.png" crc="504168087" seo="true" ref="interior-design">
+    <file name="waeving diagram.png" crc="484375930" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="waeving drawing.jpg" crc="421658489" seo="true" ref="interior-design">
+    <file name="waeving drawing.jpg" crc="3973321530" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="weaving photo1.jpg" crc="67420226" seo="true" ref="interior-design">
+    <file name="weaving photo1.jpg" crc="128914406" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="weaving photo3.jpg" crc="4053697599" seo="true" ref="interior-design">
+    <file name="weaving photo3.jpg" crc="385372236" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="weaving photo4.jpg" crc="38706774" seo="true" ref="interior-design">
+    <file name="weaving photo4.jpg" crc="230817535" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="weaving vober.jpg" crc="4078514111" seo="true" ref="interior-design">
+    <file name="weaving vober.jpg" crc="281951836" seo="true" ref="interior-design">
+      <caption webpage="interior-design" alt=""/>
       <caption webpage="interior-design" alt=""/>
     </file>
     <file name="icons8-expand-arrow-100 (1)-u4730.png" crc="3912612221" ref="interior-design"/>
@@ -362,7 +372,7 @@
     <file name="pivot button-u44422.png" crc="238435541" ref="interior-design"/>
     <file name="pivot button-u4442-r2.png" crc="261459849" ref="interior-design"/>
     <file name="pivot button-u4442-a2.png" crc="261459849" ref="interior-design"/>
-    <file name="couch cover-crop-u61472.jpg" crc="4288371629" seo="true" ref="interior-design">
+    <file name="couch cover-crop-u6147.jpg" crc="410362970" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
     <file name="interlock button-u44022.png" crc="236809667" ref="interior-design"/>
@@ -374,106 +384,73 @@
     <file name="brigde button-u44432.png" crc="4235457739" ref="interior-design"/>
     <file name="brigde button-u4443-r2.png" crc="294927788" ref="interior-design"/>
     <file name="brigde button-u4443-a2.png" crc="294927788" ref="interior-design"/>
-    <file name="porfolio sotheby filter photos469x136.jpg" crc="4130953845" seo="true" ref="interior-design">
+    <file name="porfolio sotheby collages681x166.jpg" crc="99258792" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="porfolio sotheby collages681x167.jpg" crc="4018945184" seo="true" ref="interior-design">
+    <file name="new site model2-crop-u5597.jpg" crc="3972112275" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="new site model2-crop-u55972.jpg" crc="433419530" seo="true" ref="interior-design">
+    <file name="original-crop-u5704.jpg" crc="475911707" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="original-crop-u57042.jpg" crc="500303023" seo="true" ref="interior-design">
+    <file name="substance-crop-u5694.jpg" crc="359128971" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="substance-crop-u56942.jpg" crc="4204082543" seo="true" ref="interior-design">
+    <file name="extension-crop-u5714.jpg" crc="3875619879" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="extension-crop-u57142.jpg" crc="89015284" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="bridge-crop-u57242.jpg" crc="3854818909" seo="true" ref="interior-design">
+    <file name="bridge-crop-u5724.jpg" crc="39126641" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
     <file name="2000px-klein_bottlesvg215x333.png" crc="3766742428" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="klbw1145x180.jpg" crc="503511397" seo="true" ref="interior-design">
+    <file name="nyc maping-crop-u58752.jpg" crc="3774679688" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="klbw2144x180.jpg" crc="188579423" seo="true" ref="interior-design">
+    <file name="nyc maping-crop-u59142.jpg" crc="4280247084" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="klbw3145x180.jpg" crc="4213350004" seo="true" ref="interior-design">
+    <file name="rendering503392x198.jpg" crc="3758954432" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="nyc maping-crop-u58752.jpg" crc="41819324" seo="true" ref="interior-design">
+    <file name="rendering1408x196.jpg" crc="491972662" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="nyc maping-crop-u59142.jpg" crc="71159884" seo="true" ref="interior-design">
+    <file name="rendering202-crop-u5998.jpg" crc="4237606671" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="blue stairs1280x117.jpg" crc="4108408937" seo="true" ref="interior-design">
+    <file name="rendering403-crop-u6005.jpg" crc="4021580319" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="stair red1312x117.jpg" crc="4108006754" seo="true" ref="interior-design">
+    <file name="jazz style cover-crop-u74982.jpg" crc="4033813551" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="stair yellow1151x117.jpg" crc="3942126749" seo="true" ref="interior-design">
+    <file name="jazz 9 iteration321x248.jpg" crc="249117395" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="rendering503393x198.jpg" crc="474917082" seo="true" ref="interior-design">
+    <file name="--crop-u7713.jpg" crc="4195797204" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="rendering1409x196.jpg" crc="385698288" seo="true" ref="interior-design">
+    <file name="jazz floor plan527x181.png" crc="117236978" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="rendering202-crop-u59982.jpg" crc="3791277331" seo="true" ref="interior-design">
+    <file name="jazz sections528x408.png" crc="176488593" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="rendering403-crop-u60052.jpg" crc="149727576" seo="true" ref="interior-design">
+    <file name="pivot drawing1548x423.jpg" crc="29913347" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="jazz style cover-crop-u74982.jpg" crc="27797949" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="jazz 9 iteration321x248.jpg" crc="437115603" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="--crop-u77132.jpg" crc="294650300" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="jazz floor plan527x181.png" crc="4284387899" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="jazz sections528x408.png" crc="4049915872" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="pivot drawing1548x423.jpg" crc="4249077967" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="pivot drawing2547x423.jpg" crc="3980855851" seo="true" ref="interior-design">
+    <file name="pivot drawing2547x423.jpg" crc="428126214" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
     <file name="weaving photo2-crop-u79122.jpg" crc="44020769" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="waeving diagram-crop-u78842.png" crc="165601343" seo="true" ref="interior-design">
+    <file name="waeving diagram-crop-u7884.png" crc="4058542691" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
-    <file name="waeving drawing834x644.jpg" crc="3883081773" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="weaving photo1215x157.jpg" crc="224356965" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="weaving photo3227x157.jpg" crc="450737291" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="weaving photo4229x157.jpg" crc="260819933" seo="true" ref="interior-design">
-      <caption webpage="interior-design" alt=""/>
-    </file>
-    <file name="weaving vober227x157.jpg" crc="212984791" seo="true" ref="interior-design">
+    <file name="waeving drawing834x644.jpg" crc="4193593462" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
     <file name="icons8-expand-arrow-100 (1)-u47302.png" crc="3912612221" ref="interior-design"/>
@@ -505,23 +482,24 @@
     </file>
     <file name="dm bee box button.jpg" crc="3792293149" ref="digital-media">
       <caption webpage="digital-media" alt=""/>
-    </file>
-    <file name="1.jpg" crc="443253891" seo="true" ref="digital-media">
       <caption webpage="digital-media" alt=""/>
     </file>
-    <file name="1106 pinup4.jpg" crc="272773447" seo="true" ref="digital-media">
+    <file name="1.jpg" crc="4189356636" seo="true" ref="digital-media">
       <caption webpage="digital-media" alt=""/>
     </file>
-    <file name="170616yuanyuan(nicole)song portfolio2.jpg" crc="3886014499" seo="true" ref="digital-media">
+    <file name="1106 pinup4.jpg" crc="4019400468" seo="true" ref="digital-media">
       <caption webpage="digital-media" alt=""/>
     </file>
-    <file name="170616yuanyuan(nicole)song portfolio23-crop-u9639.jpg" crc="143627148" seo="true" ref="digital-media">
+    <file name="170616yuanyuan(nicole)song portfolio2.jpg" crc="298339200" seo="true" ref="digital-media">
       <caption webpage="digital-media" alt=""/>
     </file>
-    <file name="170616yuanyuan(nicole)song portfolio24.jpg" crc="165435661" seo="true" ref="digital-media">
+    <file name="170616yuanyuan(nicole)song portfolio23-crop-u9639.jpg" crc="4237418047" seo="true" ref="digital-media">
       <caption webpage="digital-media" alt=""/>
     </file>
-    <file name="170616yuanyuan(nicole)song portfolio25-crop-u9662.jpg" crc="4162444767" seo="true" ref="digital-media">
+    <file name="170616yuanyuan(nicole)song portfolio24.jpg" crc="152478253" seo="true" ref="digital-media">
+      <caption webpage="digital-media" alt=""/>
+    </file>
+    <file name="170616yuanyuan(nicole)song portfolio25-crop-u9662.jpg" crc="533367190" seo="true" ref="digital-media">
       <caption webpage="digital-media" alt=""/>
     </file>
     <file name="postie1.jpg" crc="4272076182" seo="true" ref="digital-media">
@@ -536,12 +514,27 @@
     <file name="postie3.jpg" crc="466752930" seo="true" ref="digital-media">
       <caption webpage="digital-media" alt=""/>
     </file>
+    <file name="final poster.jpg" crc="83430769" seo="true" ref="digital-media">
+      <caption webpage="digital-media" alt=""/>
+    </file>
+    <file name="wechat image_20180116155539.jpg" crc="4026721572" seo="true" ref="digital-media">
+      <caption webpage="digital-media" alt=""/>
+    </file>
+    <file name="wechat image_20180116155520.jpg" crc="3985186696" seo="true" ref="digital-media">
+      <caption webpage="digital-media" alt=""/>
+    </file>
+    <file name="wechat image_20180116155532.jpg" crc="4078260965" seo="true" ref="digital-media">
+      <caption webpage="digital-media" alt=""/>
+    </file>
+    <file name="wechat image_20180116155536.jpg" crc="232965858" seo="true" ref="digital-media">
+      <caption webpage="digital-media" alt=""/>
+    </file>
     <file name="icons8-expand-arrow-100-u8198.png" crc="135288475" ref="digital-media"/>
     <file name="icons8-expand-arrow-100-u8196.png" crc="99772353" ref="digital-media"/>
-    <file name="icons8-expand-arrow-100-u8202-a.png" crc="277951906" ref="digital-media"/>
-    <file name="icons8-expand-arrow-100-u8204-a.png" crc="506464188" ref="digital-media"/>
+    <file name="icons8-expand-arrow-100-u8202.png" crc="277951906" ref="digital-media"/>
+    <file name="icons8-expand-arrow-100-u8204.png" crc="506464188" ref="digital-media"/>
   </folder>
-  <file name="index.html" crc="4001712481" seo="true" mt="1514854785579" redirect="true"/>
-  <file name="interior-design.html" crc="21762944" seo="true" mt="1514661735245" redirect="true"/>
-  <file name="digital-media.html" crc="89908660" seo="true" mt="1514855591933" redirect="true"/>
+  <file name="index.html" crc="4286783544" seo="true" mt="1516136451431" redirect="true"/>
+  <file name="interior-design.html" crc="486294889" seo="true" mt="1514924085037" redirect="true"/>
+  <file name="digital-media.html" crc="456140888" seo="true" mt="1516136531251" redirect="true"/>
 </manifest>
