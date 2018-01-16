@@ -11,16 +11,20 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "digital-media.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "require.js", "digital-media.css"], "outOfDate":[]};
 </script>
   
   <title>Digital Media</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=53496493"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=463013960"/>
-  <link rel="stylesheet" type="text/css" href="css/digital-media.css?crc=4092805760" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/digital-media.css?crc=3846686842" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138" id="nomq_pagesheet"/>
+  <![endif]-->
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/Ok4e0wbiOx5_pBj3OTCw_D6Acd6Is6OSGh9FC0gkHVCfe7jgfJ2bt6bPHQI3w2MXF263Wh4cZ29oFDqt5A9XjQ9ojRBywDwXZeJ3w2IXjh9ajD8ReqI7OcoTjhNCZWFzdciqZWFTZht0jhjCdc8RdhU8ShN0Zhs8Sh81dKoRZKUaiaS0dc8RdhU8ShN0Zhs8Sh81dKoRZKJe-eBKda4zJ6mRjW4qdkGHf4KFMyMMeMb6MKG4f5tzIMIjgfMfP6sFiWF8qMYDux1Pgb.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/rHMic1RJmIKzkiV2w2rdNjBJSOAwJAASll4AVqQ4qFMfe7jgfJ2bt6bPHQI3w2MXF263Wh4cZ29oFDqt5A9XjQ9ojRBywDwXZeJ3w2IXjh9ajD8ReqI7OcoTjhNCZWFzdciqZWFTZht0jhjCdc8RdhU8ShN0Zhs8Sh81dKoRZKUaiaS0dc8RdhU8ShN0Zhs8Sh81dKoRZKJe-eBKda4zJ6mRjW4qdkGHf4KFMyMMeMb6MKG4f5tzIMIjgfMfP6sFiWF8qMe2az1Pgb.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -218,9 +222,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
     </div>
     <div class="clearfix colelem" id="pu10054"><!-- group -->
-     <div class="grpelem" id="u10054"><!-- content -->
-      <div class="fluid_height_spacer"></div>
-     </div>
+     <div class="grpelem" id="u10054" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content --></div>
      <div class="clip_frame grpelem" id="u10040" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- image -->
       <img class="block" id="u10040_img" src="images/final%20poster.jpg?crc=83430769" alt="" width="1024" height="1536"/>
      </div>
