@@ -1,16 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1516136544240">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1516137339225">
   <folder name="css">
     <file name="site_global.css" crc="53496493"/>
     <file name="master_a-master.css" crc="463013960" ref="index:interior-design:digital-media"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:interior-design:digital-media"/>
-    <file name="index.css" crc="4206078325" ref="index"/>
-    <file name="nomq_index.css" crc="86286011" ref="index"/>
-    <file name="interior-design.css" crc="21833021" ref="interior-design"/>
-    <file name="nomq_interior-design.css" crc="4045850726" ref="interior-design"/>
-    <file name="digital-media.css" crc="257219606" ref="digital-media"/>
-  </folder>
-  <folder name="assets">
-    <file name="postie.mp4" crc="352022073" seo="true" mt="1509810485000"/>
+    <file name="index.css" crc="99022010" ref="index"/>
+    <file name="nomq_index.css" crc="4032207798" ref="index"/>
+    <file name="interior-design.css" crc="173036483" ref="interior-design"/>
+    <file name="nomq_interior-design.css" crc="3940281594" ref="interior-design"/>
+    <file name="digital-media.css" crc="149604340" ref="digital-media"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:interior-design:digital-media"/>
@@ -35,7 +32,7 @@
     <file name="jazz style cover-crop-u685.jpg" crc="3931656479" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo white.png" crc="353792013" seo="true" ref="index">
+    <file name="logo white.png" crc="4163077709" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icons8-expand-arrow-100.png" crc="4028136091" seo="true" ref="index">
@@ -63,7 +60,7 @@
     <file name="postie buttom-u2115-r.png" crc="325372879" ref="index"/>
     <file name="weaven button-u2206.png" crc="471572852" ref="index"/>
     <file name="weaven button-u2206-r.png" crc="3789477708" ref="index"/>
-    <file name="sm cover.jpg" crc="169043625" seo="true" ref="index:interior-design">
+    <file name="sm cover.jpg" crc="3765694784" seo="true" ref="index:interior-design">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="interior-design" alt=""/>
@@ -85,7 +82,7 @@
     <file name="pivot button-u2243-r.png" crc="3818470087" ref="index"/>
     <file name="jazz style button-u2152.png" crc="481855133" ref="index"/>
     <file name="jazz style button-u2152-r.png" crc="4024574467" ref="index"/>
-    <file name="couch cover-crop-u6189.jpg" crc="4285298037" seo="true" ref="index">
+    <file name="couch cover-crop-u6189.jpg" crc="330493928" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="p3.jpg" crc="407599204" seo="true" ref="index">
@@ -156,7 +153,7 @@
     <file name="pivot button-u2243-r2.png" crc="66770465" ref="index"/>
     <file name="jazz style button-u21522.png" crc="19716290" ref="index"/>
     <file name="jazz style button-u2152-r2.png" crc="4275645379" ref="index"/>
-    <file name="couch cover-crop-u61892.jpg" crc="516644120" seo="true" ref="index">
+    <file name="couch cover-crop-u61892.jpg" crc="4079861781" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo white62x62.png" crc="177495522" seo="true" ref="index">
@@ -169,7 +166,7 @@
     <file name="pivot button-u4442.png" crc="238435541" ref="interior-design"/>
     <file name="pivot button-u4442-r.png" crc="261459849" ref="interior-design"/>
     <file name="pivot button-u4442-a.png" crc="261459849" ref="interior-design"/>
-    <file name="couch cover.jpg" crc="408195855" seo="true" ref="interior-design">
+    <file name="couch cover.jpg" crc="4202830575" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
     <file name="interlock button-u4402.png" crc="3793083383" ref="interior-design"/>
@@ -372,7 +369,7 @@
     <file name="pivot button-u44422.png" crc="238435541" ref="interior-design"/>
     <file name="pivot button-u4442-r2.png" crc="261459849" ref="interior-design"/>
     <file name="pivot button-u4442-a2.png" crc="261459849" ref="interior-design"/>
-    <file name="couch cover-crop-u6147.jpg" crc="410362970" seo="true" ref="interior-design">
+    <file name="couch cover-crop-u6147.jpg" crc="450808095" seo="true" ref="interior-design">
       <caption webpage="interior-design" alt=""/>
     </file>
     <file name="interlock button-u44022.png" crc="236809667" ref="interior-design"/>
@@ -534,7 +531,7 @@
     <file name="icons8-expand-arrow-100-u8202.png" crc="277951906" ref="digital-media"/>
     <file name="icons8-expand-arrow-100-u8204.png" crc="506464188" ref="digital-media"/>
   </folder>
-  <file name="index.html" crc="4286783544" seo="true" mt="1516136451431" redirect="true"/>
-  <file name="interior-design.html" crc="486294889" seo="true" mt="1514924085037" redirect="true"/>
-  <file name="digital-media.html" crc="456140888" seo="true" mt="1516136531251" redirect="true"/>
+  <file name="index.html" crc="513692575" seo="true" mt="1516136888106" redirect="true"/>
+  <file name="interior-design.html" crc="493299445" seo="true" mt="1516137155617" redirect="true"/>
+  <file name="digital-media.html" crc="318273579" seo="true" mt="1516137169904" redirect="true"/>
 </manifest>
