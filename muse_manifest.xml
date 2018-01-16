@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1516138902618">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1516139315039">
   <folder name="css">
     <file name="site_global.css" crc="53496493"/>
     <file name="master_a-master.css" crc="463013960" ref="index:interior-design:digital-media"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:interior-design:digital-media"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:interior-design"/>
     <file name="index.css" crc="490570929" ref="index"/>
     <file name="nomq_index.css" crc="4106554237" ref="index"/>
     <file name="interior-design.css" crc="3804879875" ref="interior-design"/>
     <file name="nomq_interior-design.css" crc="4174395275" ref="interior-design"/>
-    <file name="digital-media.css" crc="3846686842" ref="digital-media"/>
+    <file name="digital-media.css" crc="4077019948" ref="digital-media"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:interior-design:digital-media"/>
@@ -118,8 +118,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo white97x97.png" crc="3849971421" seo="true" ref="index">
+    <file name="logo white97x97.png" crc="3849971421" seo="true" ref="index:digital-media">
       <caption webpage="index" alt=""/>
+      <caption webpage="digital-media" alt=""/>
     </file>
     <file name="jazz-20style-20cover-crop-u685-2--crop-u685.jpg" crc="3871952484" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -536,5 +537,5 @@
   </folder>
   <file name="index.html" crc="415840602" seo="true" mt="1516138621440" redirect="true"/>
   <file name="interior-design.html" crc="254165476" seo="true" mt="1516137939723" redirect="true"/>
-  <file name="digital-media.html" crc="424465381" seo="true" mt="1516138217457" redirect="true"/>
+  <file name="digital-media.html" crc="4058981855" seo="true" mt="1516139297376" redirect="true"/>
 </manifest>
