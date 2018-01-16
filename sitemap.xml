@@ -321,6 +321,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://nicolesongdesign.cf/images/logo%20white97x97.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nicolesongdesign.cf/images/1.jpg</image:loc>
     </image:image>
     <image:image>

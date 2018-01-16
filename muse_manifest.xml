@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1516137339225">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nicolesongdesign.cf" resolutions="1x" timestamp="1516137819313">
   <folder name="css">
     <file name="site_global.css" crc="53496493"/>
     <file name="master_a-master.css" crc="463013960" ref="index:interior-design:digital-media"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:interior-design:digital-media"/>
-    <file name="index.css" crc="99022010" ref="index"/>
-    <file name="nomq_index.css" crc="4032207798" ref="index"/>
-    <file name="interior-design.css" crc="173036483" ref="interior-design"/>
-    <file name="nomq_interior-design.css" crc="3940281594" ref="interior-design"/>
-    <file name="digital-media.css" crc="149604340" ref="digital-media"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:interior-design"/>
+    <file name="index.css" crc="107071466" ref="index"/>
+    <file name="nomq_index.css" crc="331761279" ref="index"/>
+    <file name="interior-design.css" crc="3804879875" ref="interior-design"/>
+    <file name="nomq_interior-design.css" crc="4174395275" ref="interior-design"/>
+    <file name="digital-media.css" crc="4092805760" ref="digital-media"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:interior-design:digital-media"/>
@@ -121,8 +121,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo white97x97.png" crc="3849971421" seo="true" ref="index">
+    <file name="logo white97x97.png" crc="3849971421" seo="true" ref="index:digital-media">
       <caption webpage="index" alt=""/>
+      <caption webpage="digital-media" alt=""/>
     </file>
     <file name="jazz style cover-crop-u6852.jpg" crc="265043880" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -531,7 +532,7 @@
     <file name="icons8-expand-arrow-100-u8202.png" crc="277951906" ref="digital-media"/>
     <file name="icons8-expand-arrow-100-u8204.png" crc="506464188" ref="digital-media"/>
   </folder>
-  <file name="index.html" crc="513692575" seo="true" mt="1516136888106" redirect="true"/>
-  <file name="interior-design.html" crc="493299445" seo="true" mt="1516137155617" redirect="true"/>
-  <file name="digital-media.html" crc="318273579" seo="true" mt="1516137169904" redirect="true"/>
+  <file name="index.html" crc="121510587" seo="true" mt="1516137738038" redirect="true"/>
+  <file name="interior-design.html" crc="453601604" seo="true" mt="1516137796733" redirect="true"/>
+  <file name="digital-media.html" crc="247326373" seo="true" mt="1516137443510" redirect="true"/>
 </manifest>
